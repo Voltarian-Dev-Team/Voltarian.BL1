@@ -29,6 +29,11 @@ To import these weapons into your Borderlands 1 save file, you'll need WillowTre
 - **Description:** A Fast SMG with a cool name.
 - **Filename:** [HX 540 Bad Bitch (L69).txt](https://github.com/Voltarian-Dev-Team/Voltarian.BL1-Weapons/blob/main/HX%20540%20Bad%20Bitch%20(L69).txt)
 
+### 2. ZPR1200-BIA Matador Shredder
+- **Weapon Type:** Shotgun
+- **Description:** A Rocket Powered Shotgun with a Cool name.
+- **Filename:** [ZPR1200-BIA Matador Shredder (L69).txt](https://github.com/Voltarian-Dev-Team/Voltarian.BL1-Weapons/blob/main/ZPR1200-BIA%20Matador%20Shredder%20(L69).txt)
+
 ## Credits
 - **Author:** Voltarian Dev Team
 - **Special Thanks:** To the creators of WillowTree for their amazing save editor.
