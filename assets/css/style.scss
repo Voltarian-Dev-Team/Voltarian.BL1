@@ -1,8 +1,9 @@
-$primary-color: #98ff98; // Mint green
-$background-color: #121212; // Dark background
-$text-color: #e0ffe0; // Light text for readability
+@import "{{ site.theme }}";
 
-// Base styles
+$primary-color: #98ff98;
+$background-color: #121212;
+$text-color: #e0ffe0;
+
 body {
   background-color: $background-color;
   color: $text-color;
