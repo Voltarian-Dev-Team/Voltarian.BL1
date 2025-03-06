@@ -19,7 +19,7 @@ To import these weapons into your Borderlands 1 save file, you'll need WillowTre
 3. Open WillowTree and load your Borderlands 1 save file.
 4. Click on the "Import" button.
 5. Click on the "from File(s)" button.
-6. Select the weapon you want to import from this repository.
+6. Select the weapon you downloaded earlier.
 7. Save your changes and enjoy your new weapons!
 
 ## Weapon List
@@ -27,7 +27,7 @@ To import these weapons into your Borderlands 1 save file, you'll need WillowTre
 ### 1. HX 540 Bad Bitch
 - **Weapon Type:** SMG
 - **Description:** A Fast SMG with a cool name.
-- **Filename:** [HX 540 Bad Bitch (L69).txt]()
+- **Filename:** [HX 540 Bad Bitch (L69).txt](https://github.com/Voltarian-Dev-Team/Voltarian.BL1-Weapons/blob/main/HX%20540%20Bad%20Bitch%20(L69).txt)
 
 ## Credits
 - **Author:** Voltarian Dev Team
