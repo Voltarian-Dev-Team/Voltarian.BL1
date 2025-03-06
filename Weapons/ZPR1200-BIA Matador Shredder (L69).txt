@@ -2,10 +2,10 @@ gd_itemgrades.Weapons.ItemGrade_Weapon_Scorpio
 gd_manufacturers.Manufacturers.Gearbox
 gd_weap_combat_shotgun.A_Weapon.WeaponType_combat_shotgun
 gd_weap_combat_shotgun.Body.body5
-gd_weap_combat_shotgun.Grip.grip3b
+gd_weap_combat_shotgun.Grip.grip5
 gd_weap_combat_shotgun.mag.mag2_Dahl_Bulldog
 gd_weap_combat_shotgun.UniqueParts.SledgesShotgun_barrel2
-gd_weap_combat_shotgun.Sight.sightnone
+gd_weap_combat_shotgun.Sight.sight2_
 gd_weap_combat_shotgun.Stock.stock3
 gd_weap_combat_shotgun.acc.acc4_Atlas_Hydra
 gd_weap_combat_shotgun.acc.acc4_Atlas_Hydra
