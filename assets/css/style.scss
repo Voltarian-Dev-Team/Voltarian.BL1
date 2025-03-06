@@ -1,6 +1,3 @@
----
----
-
 @font-face {
     font-family: Xanmono;
     src: url(https://voltarian-dev-team.github.io/Voltarian.BL1/Xanmono.ttf);
@@ -23,8 +20,9 @@ body {
     min-height: calc(100% - 100px);
 }
 
-.GunName {
+i .GunName {
     font-family: Xenmono, sans-serif;
+    font-style: normal !important;
 }
 
 .wrapper {
