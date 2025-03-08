@@ -1,5 +1,5 @@
 gd_itemgrades.Weapons.ItemGrade_Weapon_Scorpio
-gd_manufacturers.Manufacturers.Gearbox
+gd_manufacturers.Manufacturers.Eridian
 gd_weap_combat_shotgun.A_Weapon.WeaponType_combat_shotgun
 gd_weap_combat_shotgun.Body.body5
 gd_weap_combat_shotgun.Grip.grip5

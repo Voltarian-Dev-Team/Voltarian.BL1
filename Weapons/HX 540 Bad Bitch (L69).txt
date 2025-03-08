@@ -1,5 +1,5 @@
 gd_itemgrades.Weapons.ItemGrade_Weapon_Scorpio
-gd_manufacturers.Manufacturers.Gearbox
+gd_manufacturers.Manufacturers.Eridian
 gd_weap_patrol_smg.A_Weapon.WeaponType_patrol_smg
 gd_weap_patrol_smg.Body.body5
 gd_weap_patrol_smg.Grip.grip5
